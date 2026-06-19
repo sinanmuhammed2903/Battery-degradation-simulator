@@ -46,5 +46,4 @@ Deployed for free via [Streamlit Community Cloud](https://share.streamlit.io) â€
 
 ---
 
-Part of a TinyML / embedded systems summer build series.
-3rd year ECE, College of Engineering Thalassery.
+
