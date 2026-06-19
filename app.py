@@ -4,8 +4,7 @@ Battery Degradation Simulator
 Simulates Li-ion battery capacity fade and internal resistance growth
 over repeated charge/discharge cycles, using a parametric aging model.
 
-Built by Sinan — ECE student, College of Engineering Thalassery
-Project 4 of summer build series.
+Built by Sinan
 """
 
 import streamlit as st
