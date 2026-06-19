@@ -2,7 +2,7 @@
 
 An interactive simulator that models Li-ion battery capacity fade and internal resistance growth over repeated charge/discharge cycles, based on an empirical Arrhenius-style aging model.
 
-**Live demo:** _(add your Streamlit Cloud link here after deploying)_
+**Live demo:** _(https://battery-degradation-simulator-ibeflsyjnxfekvuukb94tz.streamlit.app/)_
 
 ## What it does
 
